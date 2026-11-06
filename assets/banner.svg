@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Jeremy Molina Sánchez — Building ideas into digital solutions</title>
+<desc id="desc">Dark navy banner with electric-blue accents, code window and professional introduction.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070D1B"/><stop offset=".65" stop-color="#101C35"/><stop offset="1" stop-color="#081526"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#19A7FF"/><stop offset="1" stop-color="#5A6EFF"/></linearGradient>
+<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#8FC8FF" stroke-opacity=".065"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/><rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<circle cx="985" cy="90" r="125" fill="#1767E3" opacity=".14" filter="url(#glow)"/><circle cx="1160" cy="296" r="145" fill="#008DFF" opacity=".12" filter="url(#glow)"/>
+<rect x="56" y="49" width="184" height="29" rx="14" fill="#0B335D" stroke="#2E8BDC" stroke-opacity=".7"/><circle cx="74" cy="63" r="5" fill="#37D5FF"/><text x="90" y="68" font-size="13" fill="#BCE4FF" font-weight="700" font-family="Arial, sans-serif" letter-spacing="1.4">HELLO, WORLD!</text>
+<text x="56" y="137" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="#FFFFFF">Jeremy Molina</text>
+<text x="56" y="183" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="650" fill="#67BFFF">Sánchez</text>
+<rect x="56" y="208" width="68" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="56" y="244" font-size="18" font-family="Arial, sans-serif" fill="#E2EBFC">Ciberseguridad  ·  Software  ·  UX &amp; Web</text>
+<text x="56" y="278" font-size="14" font-family="Arial, sans-serif" fill="#94A9C8" letter-spacing=".7">BUILDING SECURE, USEFUL DIGITAL EXPERIENCES</text>
+<g transform="translate(760 54)">
+<rect width="379" height="218" rx="16" fill="#091221" stroke="#4371B6" stroke-opacity=".78" stroke-width="1.5"/>
+<path d="M0 16Q0 0 16 0H363Q379 0 379 16V40H0Z" fill="#142441"/>
+<circle cx="23" cy="20" r="5.5" fill="#F87171"/><circle cx="43" cy="20" r="5.5" fill="#FBBF24"/><circle cx="63" cy="20" r="5.5" fill="#34D399"/>
+<text x="187" y="25" text-anchor="middle" font-size="12" font-family="monospace" fill="#AFC6E3">~/jerros57/profile.ts</text>
+<g font-family="Consolas, monospace" font-size="15">
+<text x="22" y="81" fill="#6085B9">01</text><text x="58" y="81" fill="#C98FFF">const</text><text x="115" y="81" fill="#E7F5FF">developer</text><text x="205" y="81" fill="#91A7C5"> = {</text>
+<text x="22" y="113" fill="#6085B9">02</text><text x="70" y="113" fill="#61C5FF">focus</text><text x="121" y="113" fill="#91A7C5">:</text><text x="139" y="113" fill="#A2E6C6">'impact'</text><text x="223" y="113" fill="#91A7C5">,</text>
+<text x="22" y="145" fill="#6085B9">03</text><text x="70" y="145" fill="#61C5FF">stack</text><text x="121" y="145" fill="#91A7C5">:</text><text x="140" y="145" fill="#A2E6C6">'full-stack'</text><text x="268" y="145" fill="#91A7C5">,</text>
+<text x="22" y="177" fill="#6085B9">04</text><text x="70" y="177" fill="#61C5FF">mindset</text><text x="139" y="177" fill="#91A7C5">:</text><text x="158" y="177" fill="#A2E6C6">'keep building'</text>
+<text x="22" y="209" fill="#6085B9">05</text><text x="58" y="209" fill="#91A7C5">};</text>
+</g></g>
+<path d="M56 306H1144" stroke="#4874A8" stroke-opacity=".37"/>
+</svg>
